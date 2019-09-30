@@ -1,0 +1,6 @@
+c:\users\cheryl\documents\visual studio 2015\Projects\R365AdditionUtility\R365AdditionUtility\bin\Debug\R365AdditionUtility.exe.config
+c:\users\cheryl\documents\visual studio 2015\Projects\R365AdditionUtility\R365AdditionUtility\bin\Debug\R365AdditionUtility.exe
+c:\users\cheryl\documents\visual studio 2015\Projects\R365AdditionUtility\R365AdditionUtility\bin\Debug\R365AdditionUtility.pdb
+c:\users\cheryl\documents\visual studio 2015\Projects\R365AdditionUtility\R365AdditionUtility\obj\Debug\R365AdditionUtility.exe
+c:\users\cheryl\documents\visual studio 2015\Projects\R365AdditionUtility\R365AdditionUtility\obj\Debug\R365AdditionUtility.pdb
+C:\Users\Cheryl\documents\visual studio 2015\Projects\R365AdditionUtility\R365AdditionUtility\obj\Debug\R365AdditionUtility.csprojResolveAssemblyReference.cache
